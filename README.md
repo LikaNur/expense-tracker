@@ -2,6 +2,8 @@
 
 A simple, responsive **Expense Tracker** built with React and Vite.
 
+<img src="./public//desktop.png" alt="Desktop design"/>
+
 Users can:
 
 - Add a transaction with **type**, **description**, and **amount**
